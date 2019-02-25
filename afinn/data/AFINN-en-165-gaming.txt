@@ -208,14 +208,14 @@ arsehole	-4
 ashame	-2
 ashamed	-2
 ass	-4
-assassination	-3
-assassinations	-3
-assault	-2
-assaults	-2
+assassination	1
+assassinations	1
+assault	-1
+assaults	-1
 asset	2
 assets	2
-assfucking	-4
-asshole	-4
+assfucking	-3
+asshole	-2
 astonished	2
 astound	3
 astounded	3
@@ -224,10 +224,10 @@ astoundingly	3
 astounds	3
 atrocious	-3
 atrocity	-3
-attack	-1
+attack	1
 attacked	-1
-attacking	-1
-attacks	-1
+attacking	1
+attacks	1
 attract	1
 attracted	1
 attracting	2
@@ -240,12 +240,12 @@ attracts	1
 audacious	3
 aura	1
 authority	1
-avenge	-2
-avenged	-2
-avenger	-2
-avengers	-2
-avenges	-2
-avenging	-2
+avenge	2
+avenged	2
+avenger	2
+avengers	2
+avenges	2
+avenging	2
 avert	-1
 averted	-1
 averts	-1
@@ -262,14 +262,14 @@ awards	3
 awesome	4
 awful	-3
 awkward	-2
-axe	-1
+axe	1
 axed	-1
 backed	1
 backing	2
 backs	1
 bad	-3
 bad luck	-2
-badass	-3
+badass	3
 badly	-3
 badness	-3
 bailout	-2
@@ -282,18 +282,18 @@ banish	-1
 bankrupt	-3
 bankruptcy	-3
 bankster	-3
-banned	-2
+banned	-3
 barbarian	-2
 barbaric	-2
 barbarous	-2
 bargain	2
 barrier	-2
-bastard	-5
-bastards	-5
-battle	-1
-battled	-1
-battles	-1
-battling	-2
+bastard	-4
+bastards	-4
+battle	1
+battled	1
+battles	1
+battling	1
 beaten	-2
 beatific	3
 beating	-1
@@ -329,8 +329,8 @@ better	2
 bias	-1
 biased	-2
 big	1
-bitch	-5
-bitches	-5
+bitch	-4
+bitches	-4
 bitter	-2
 bitterest	-2
 bitterly	-2
@@ -364,7 +364,7 @@ blurry	-2
 boastful	-2
 bold	2
 boldly	2
-bomb	-1
+bomb	1
 boost	1
 boosted	1
 boosting	1
@@ -458,10 +458,10 @@ censors	-2
 certain	1
 chagrin	-2
 chagrined	-2
-challenge	-1
-champion	2
-championed	2
-champions	2
+challenge	1
+champion	3
+championed	3
+champions	3
 chance	2
 chances	2
 chaos	-2
@@ -520,9 +520,9 @@ clears	1
 clever	2
 clouded	-1
 clueless	-2
-cock	-5
-cocksucker	-5
-cocksuckers	-5
+cock	-4
+cocksucker	-4
+cocksuckers	-4
 cocky	-2
 coerced	-2
 coercion	-2
@@ -690,7 +690,7 @@ crushing	-1
 cry	-1
 crying	-2
 cunning	2
-cunt	-5
+cunt	-4
 curious	1
 curse	-1
 cut	-1
@@ -720,7 +720,7 @@ darkest	-2
 darkness	-1
 dauntless	2
 dazzling	3
-dead	-3
+dead	-4
 deadening	-2
 deadlock	-2
 deadly	-3
@@ -1006,7 +1006,7 @@ diverting	-1
 dizzy	-1
 dodging	-2
 dodgy	-2
-does not work	-3
+does not work	-4
 dolorous	-2
 donate	2
 donated	2
@@ -1375,15 +1375,15 @@ frustrated	-2
 frustrates	-2
 frustrating	-2
 frustration	-2
-ftw	3
-fuck	-4
-fucked	-4
-fucker	-4
-fuckers	-4
-fuckface	-4
-fuckhead	-4
-fuckin	-4
-fucking	-4
+ftw	4
+fuck	-3
+fucked	-3
+fucker	-3
+fuckers	-3
+fuckface	-3
+fuckhead	-3
+fuckin	-3
+fucking	-3
 fucking amazing	4
 fucking beautiful	4
 fucking cute	4
@@ -1853,8 +1853,8 @@ irritates	-3
 irritating	-3
 isolated	-1
 itchy	-2
-jackass	-4
-jackasses	-4
+jackass	-3
+jackasses	-3
 jailed	-2
 jaunty	2
 jealous	-2
@@ -1888,10 +1888,10 @@ kidnapped	-2
 kidnapping	-2
 kidnappings	-2
 kidnaps	-2
-kill	-3
-killed	-3
-killing	-3
-kills	-3
+kill	1
+killed	1
+killing	1
+kills	1
 kind	2
 kind of	0
 kinder	2
@@ -2136,8 +2136,8 @@ moody	-1
 mope	-1
 moping	-1
 moron	-3
-motherfucker	-5
-motherfucking	-5
+motherfucker	-4
+motherfucking	-4
 motivate	1
 motivated	2
 motivating	2
@@ -2846,8 +2846,8 @@ squandered	-2
 squandering	-2
 squanders	-2
 squelched	-1
-stab	-2
-stabbed	-2
+stab	2
+stabbed	1
 stable	2
 stabs	-2
 stall	-2
@@ -3034,7 +3034,7 @@ thwarts	-2
 timid	-2
 timorous	-2
 tired	-2
-tits	-2
+tits	-1
 tolerance	2
 tolerant	2
 toothless	-2
@@ -3285,7 +3285,7 @@ warning	-3
 warnings	-3
 warns	-2
 waste	-1
-wasted	-2
+wasted	-1
 wasting	-2
 wavering	-1
 weak	-2

@@ -4,15 +4,15 @@ from setuptools import setup
 
 
 setup(
-    name='afinn',
+    name='afinn-gaming',
     packages=['afinn'],
-    version='0.2dev',
-    author='Finn Aarup Nielsen',
-    author_email='faan@dtu.dk',
-    description='AFINN sentiment analysis',
+    version='0.1dev',
+    author='Lukas Corona',
+    author_email='luk.corona@gmail.com',
+    description='AFINN sentiment analysis for gaming',
     license='Apache License 2.0',
     keywords='sentiment analysis',
-    url='https://github.com/fnielsen/afinn',
+    url='https://github.com/korsmed/afinn',
     package_data={'afinn': ['data/*.txt', 'data/LICENSE']},
     long_description='',
     classifiers=[

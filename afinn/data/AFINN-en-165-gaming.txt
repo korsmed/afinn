@@ -52,6 +52,7 @@ accuses	-2
 accusing	-2
 ache	-2
 achievable	1
+achievement	3
 aching	-2
 acquit	2
 acquits	2
@@ -146,6 +147,7 @@ amuse	3
 amused	3
 amusement	3
 amusements	3
+amusing	3
 anger	-3
 angered	-3
 angers	-3
@@ -1426,6 +1428,7 @@ gem	3
 generous	2
 generously	2
 genial	3
+gg	2
 ghastly	-2
 ghost	-1
 giddy	-2
@@ -1440,6 +1443,7 @@ gloomy	-2
 glorious	2
 glory	2
 glum	-2
+gl hf	2
 god	1
 goddamn	-3
 godsend	4
@@ -2334,6 +2338,7 @@ piqued	-2
 piss	-4
 pissed	-4
 pissing	-3
+piss off	-2
 piteous	-2
 pitied	-1
 pity	-2

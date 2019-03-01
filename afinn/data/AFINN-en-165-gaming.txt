@@ -121,6 +121,7 @@ agreeable	2
 agreed	1
 agreement	1
 agrees	1
+aids -4
 alarm	-2
 alarmed	-2
 alarmist	-2
@@ -409,6 +410,7 @@ broken	-1
 brooding	-2
 brutal	-3
 brutally	-3
+bug -2
 bullied	-2
 bullshit	-4
 bully	-2
@@ -430,7 +432,7 @@ cancel	-1
 cancelled	-1
 cancelling	-1
 cancels	-1
-cancer	-1
+cancer	-5
 capabilities	1
 capability	1
 capable	1
@@ -704,6 +706,7 @@ cutting	-1
 cynic	-2
 cynical	-2
 cynicism	-2
+dafuq   1
 damage	-3
 damaged	-3
 damages	-3
@@ -2298,6 +2301,9 @@ passive	-1
 passively	-1
 pathetic	-2
 pay	-1
+pay to win  -2
+pay 2 win   -2
+p2w -2
 peace	2
 peaceful	2
 peacefully	2
@@ -2588,8 +2594,8 @@ restriction	-2
 restrictive	-1
 restricts	-2
 retained	-1
-retard	-2
-retarded	-2
+retard	-3
+retarded	-3
 retreat	-1
 revenge	-2
 revengeful	-2
@@ -2739,7 +2745,7 @@ shortage	-2
 shortages	-2
 shrew	-4
 shy	-1
-sick	-2
+sick	4
 sickness	-2
 side-effect	-2
 side-effects	-2
@@ -3375,6 +3381,7 @@ xo	3
 xoxo	3
 xoxoxo	4
 xoxoxoxo	4
+xd  2
 yeah	1
 yearning	1
 yeees	2
